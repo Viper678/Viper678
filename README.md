@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Parameterized Algorithms and Experiments](https://www.overleaf.com/2521235564nrbqtqhbsgkv)
 
-- 📫 How to reach me **mohammedabdulazeem821@gmail.com**
+- 📫 Reach me at **mohammedabdulazeem821@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

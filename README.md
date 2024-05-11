@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viper678&label=Profile%20views&color=0e75b6&style=flat" alt="viper678" /> </p>
 
-- I'm currently a 4th year student at IIT Palakkad pursuing my Bachelor's in Computer Science and Engineering.
+- CS 2019-23, IIT Palakkad.
 
-- 🔭 I’m currently working on [Parameterized Algorithms and Experiments](https://www.overleaf.com/2521235564nrbqtqhbsgkv)
+- 🔭 I have worked on [Parameterized Algorithms and Experiments](https://www.overleaf.com/2521235564nrbqtqhbsgkv)
 
 - 📫 Reach me at **mohammedabdulazeem821@gmail.com**
 

@@ -8,7 +8,7 @@
 </p>
 
 - 🎓 CS Graduate (2019-23) from IIT Palakkad
-- 🔬 Worked on [Parameterized Algorithms and Experiments](https://www.overleaf.com/2521235564nrbqtqhbsgkv)
+- 🔬 Term Project [Parameterized Algorithms and Experiments](https://www.overleaf.com/2521235564nrbqtqhbsgkv)
 - 💼 Seeking opportunities in software development and algorithm design
 - 🌱 Currently learning: Deep Learning 
 - 🥅 2024 Goals: Explore emerging tech, build something using Deep Learning concepts.

@@ -3,14 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=viper678&label=Profile%20views&color=0e75b6&style=flat" alt="viper678" />
-</p>
-
 - 🎓 CS Graduate (2019-23) from IIT Palakkad
 - 🔬 Term Project [Parameterized Algorithms and Experiments](https://www.overleaf.com/2521235564nrbqtqhbsgkv)
+- 👨🏻‍💻 Working as Software Developer at ICICI Bank.
 - 💼 Seeking opportunities in software development and algorithm design
-- 🌱 Currently learning: Deep Learning 
+- 🌱 Currently exploring: Deep Learning 
 - 🥅 2024 Goals: Explore emerging tech, build something using Deep Learning concepts.
 
 📫 **Contact me:**

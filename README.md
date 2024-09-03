@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
+- 👨🏻‍💻 Working as Software Development Engineer at ICICI Bank.
 - 🎓 CS Graduate (2019-23) from IIT Palakkad
 - 🔬 Term Project [Parameterized Algorithms and Experiments](https://www.overleaf.com/2521235564nrbqtqhbsgkv)
-- 👨🏻‍💻 Working as Software Developer at ICICI Bank.
 - 💼 Seeking opportunities in software development and algorithm design
 - 🌱 Currently exploring: Deep Learning 
 - 🥅 2024 Goals: Explore emerging tech, build something using Deep Learning concepts.
